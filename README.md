@@ -61,7 +61,7 @@ Este repositório reúne todo o material produzido e coletado ao longo do curso 
 
 1. **Clone** o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/RaoniLucas/Materiais-de-Estudo.git
    ```
 
 2. **Navegue** pelas pastas de acordo com o semestre ou disciplina desejada.
