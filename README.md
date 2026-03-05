@@ -10,7 +10,7 @@
 
 ## 🎯 Sobre
 
-Este repositório reúne todo o material produzido e coletado ao longo do curso de ADS na **[Nome da Faculdade]**. O objetivo é organizar o aprendizado e servir de consulta para colegas que estejam cursando as mesmas disciplinas.
+Este repositório reúne todo o material produzido e coletado ao longo do curso de ADS. O objetivo é organizar o aprendizado e servir de consulta para colegas que estejam cursando as mesmas disciplinas.
 
 ---
 
